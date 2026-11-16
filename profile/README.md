@@ -4,6 +4,6 @@ The files are made and maintained by their contributors. They are not made, main
 
 **[Join, claim or start a repository](https://nr-data.github.io/requests/)**: one click, handled by a bot. Pull requests are welcome on any repository without asking.
 
-**No copyrighted content:** names, points, stats, keywords and army building limits only. Never rules or ability text copied from books, cards or apps, scans, artwork or logos, and no Games Workshop games. Read the [content rules](https://nr-data.github.io/requests/#rules-title) before contributing; rights holders can file a [removal request](https://github.com/NR-Data/requests/issues/new?template=takedown.yml).
+**No copyrighted content without permission:** names, points, stats, keywords and army building limits are fine. Rules or ability text copied from books, cards or apps, scans, artwork and logos need the rights holder's permission. Games Workshop has not given it, so no Games Workshop games. Read the [content rules](https://nr-data.github.io/requests/#rules-title) before contributing; rights holders can file a [removal request](https://github.com/NR-Data/requests/issues/new?template=takedown.yml).
 
 Many repositories here are rehosts of community data previously published by BSData, kept with their full history and author credits.
